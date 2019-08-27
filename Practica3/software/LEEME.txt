@@ -1,0 +1,11 @@
+---------------------------------------------------------------------
+			-- CONTENIDO DEL .zip --
+---------------------------------------------------------------------
+* Carpeta software: contiene el código fuente de la práctica (P3.py) 
+y la carpeta 'datos' en la que se encuentran los .csv
+
+* P3-MH.pdf: contiene la memoria de la práctica.
+
+* tablasResultados.pdf: contiene las tablas con los resultados obtenidos.
+Este fichero ha sido incluido por si las tablas en la memoria se ven
+demasiado pequeñas.
